@@ -1,3 +1,3 @@
 Hack Nª 4
 
-	Extraer archivo de stage
+Extraer archivo de stage
